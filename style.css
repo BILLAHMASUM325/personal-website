@@ -64,16 +64,22 @@ section{
     border-radius: 5px;
     
 }
+.pad{
+    border: 1px solid red;
+}
 .work-section{
     background-image: url(images/latest-work-bg.png);
-   margin: 0px;
+    
     height: 500px;
 }
 .client-section{
     background-image: url(images/footer-bg.png);
-     padding-top: 100px;
+    
+     
     padding-bottom: 0px;
-    margin: 0px;
+    
+    
+    
 }
 
 .text-middle{
