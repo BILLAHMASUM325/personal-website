@@ -49,15 +49,20 @@ section{
     text-align: center;
 }
 .half-work{
-    width: 25%;
+    width: 30%;
+    float: left;  
+    
+}
+
+.img-work{
     float: left;
     
     
-    
 }
-.half-work img{
-    width:100%;
-    
+.img-work img{
+    width: 32%;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
     
 }
 .work-section{
