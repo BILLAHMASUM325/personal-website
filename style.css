@@ -73,13 +73,8 @@ section{
     height: 500px;
 }
 .client-section{
-    background-image: url(images/footer-bg.png);
-    
-     
-    padding-bottom: 0px;
-    
-    
-    
+    background-image: url(images/footer-bg.png);  
+   
 }
 
 .text-middle{
