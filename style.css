@@ -50,18 +50,17 @@ section{
 }
 .half-work{
     width: 30%;
-    float: left;  
+    float: left;
+
     
 }
 
-.img-work{
-    float: left;
-    
-    
-}
+
 .img-work img{
-    width: 32%;
-    margin: 10px 10px 10px 10px;
+    width: 33%;
+    float: left;
+    height: auto;
+    
     border-radius: 5px;
     
 }
