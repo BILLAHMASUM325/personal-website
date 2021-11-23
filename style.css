@@ -58,6 +58,7 @@ section{
 }
 .half-work img{
     width:95%;
+    float: left;
     
 }
 .work-section{
